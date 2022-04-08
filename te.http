@@ -1,0 +1,14 @@
+POST  http://localhost:4484/
+Content-Type: application/json
+
+{
+ "email": "jf",
+ "phoneNumber": "1234567890",
+ "sadLink": "http://www.google.com",
+ "happyLink": "http://www.google.com",
+ "contemptLink": "http://www.google.com",
+ "fearLink": "http://www.google.com",
+ "angerLink": "http://www.google.com",
+ "diLink": "http://www.google.com",
+ "suLink": "http://www.google.com"
+}
